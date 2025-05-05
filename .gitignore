@@ -1,0 +1,20 @@
+# Sensitive data
+TrainingImageLabel/psd.txt
+StudentDetails/
+TrainingImage/
+Attendance/
+
+# Environment
+.venv/
+.env
+__pycache__/
+*.pyc
+
+# Generated files
+TrainingImageLabel/Trainner.yml
+*.log
+*.tmp
+
+# IDE specific files
+.vscode/
+.idea/
